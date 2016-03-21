@@ -1,5 +1,5 @@
-# NTIS-Data-Services-Project
-Reimagining the services and data products of the National Technical Information Service (NTIS), Department of Commerce.
+# NTIS Data Services Project
+Reimagining the services and data products of the National Technical Information Service (NTIS), Department of Commerce.  This is the public repository for our ongoing work.
 
 ## Overview
 This is the public repository for prototypes showcasing proof-of-concept data services and products of the [National Technical Information Service](https://www.ntis.gov/)
