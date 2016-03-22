@@ -12,7 +12,7 @@ A major workstream of our work involves the exploration of products that NTIS an
 + Github repo: https://github.com/18F/drmaas
 + [Business Model Canvas] (https://raw.githubusercontent.com/18F/NTIS-Data-Services-Project/master/images/dr_mass_business_model_canvas.png)
 
-*508Monstr* - 508Monstr is a prototpye service for a one-stop shop for all 508 compliance needs.
+*508Monstr* - 508Monstr is a prototype service for a one-stop shop for all 508 compliance needs.
 + Public website: http://openglobe.github.io/508/
 + Github repo: https://github.com/OpenGlobe/508
 + [Business Model Canvas](https://raw.githubusercontent.com/18F/NTIS-Data-Services-Project/master/images/508_business_model_canvas.png)
