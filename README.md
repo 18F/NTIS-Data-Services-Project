@@ -20,9 +20,10 @@ A major workstream of our work involves the exploration of products that NTIS an
 ###A better web and social media presence
 This aspect of our workstream explores how to build a better web and social media presence for the [National Technical Information Service](https://www.ntis.gov/).  Here are a few areas we're working on:
 
++ [Draft wireframes](https://ekip.mybalsamiq.com/projects/ntis/grid) - working on alignment of site to support services and data products
 + Website Content Review
 + User Research
-+ Alignment of site to support services and data products
++ NTIS template using the [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/)
 
 ### Commerce Data Service
 The Commerce Data Service can be found at https://github.com/CommerceDataService
