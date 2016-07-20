@@ -51,5 +51,14 @@ NTIS will support the entire data delivery pipeline for:
 - delivering better data services to businesses, communities, and citizens.
 - 
 
+#Hire Us
+NTIS is available for short and long term engagements with federal agencies.
+
+Federal agencies can engage with NTIS and a data services provider on data publishing, analysis and management projects.  We can work with you to define your problem.
+
+Through its joint venture authority, NTIS pre-selects companies and organizations with proven capabilities in data science.
+
+Do you have a project in mind?  Let us know: inquiries@ntis.gov
+
 
 
