@@ -2,7 +2,18 @@
 Content from on-site web framing exercise on July 20, 2016
 
 #Leading Sentence
+- We are the future of federal data science.
+ --OR--
+- We solve federal data problems.
+ --OR--
+- Data Science as a Service (DSAAS)
+ --OR--
+- Data Science, not just Big Data.
 
+##Header pp
+We work with our partners to build and deliver better data products and services.  By leveraging our expertise in data science, secure cloud hosting and consulting services you leave the difficult data challenges to us.  We also provide access and certification to critical government datasets for our private sector partners.
+ --OR--
+Federal agencies can hire NTIS to analyze and provide valuable insights from multiple sources.
 
 #About our team
 “Our data science team will be builders, not consultants.”
@@ -14,6 +25,9 @@ Core business lines identified
 • Infrastructure services
 • IT security services
 • Augmented / value-add data services
+
+#JVP's 
+New paradigms for data services solutions.
 
 #From Department of Commerce (Dec 2015) - Mission, Vision and Scope for NTIS
 ##Mission
