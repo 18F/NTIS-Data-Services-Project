@@ -11,12 +11,20 @@ Content from on-site web framing exercise on July 20, 2016
 - Data Science, not just Big Data.
 
 ##Header pp
-We work with our partners to build and deliver better data products and services.  By leveraging our expertise in data science, secure cloud hosting and consulting services you leave the difficult data challenges to us.  We also provide access and certification to critical government datasets for our private sector partners.
+- We work with our partners to build and deliver better data products and services.  By leveraging our expertise in data science, secure cloud hosting and consulting services you leave the difficult data challenges to us.  We also provide access and certification to critical government datasets for our private sector partners.
  --OR--
-Federal agencies can hire NTIS to analyze and provide valuable insights from multiple sources.
+- Federal agencies can hire NTIS to analyze and provide valuable insights from multiple sources.
+ --OR--
+- We believe in enabling U.S. innovation and economic growth by providing information and data services.
 
-#About our team
+- NTIS partners with private sector companies and organizations to assist federal agencies with their science needs.
+
+#Join Us / About Our Team
 “Our data science team will be builders, not consultants.”
+
+Our mission demands data science savvy people and technology.  Come help us build the new NTIS and help federal agencies better serve their constituents by better leveraging their data.
+
+Meet our current team: <team members>
 
 #Core Business Lines (from workshop)
 Core business lines identified
